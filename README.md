@@ -66,14 +66,16 @@ This project was a **rich learning experience**, from **leveraging Pandas for ef
 ---
 
 ## **📊 Labour Force Estimation Methodology**  
-📌 **According to PLFS documentation, labor force estimates follow two approaches:**  
+📌 **According to PLFS documentation, labour force estimates follow two approaches:**  
 1️⃣ **Usual Status (ps+ss) Approach** – Considers both **principal and subsidiary activities** over **365 days**.  
 2️⃣ **Current Weekly Status Approach** – Based on **work activity during a short reference period**.  
 
 ### **📌 Method Used in This Analysis**  
-✅ **We used the "Usual Status (ps+ss) Approach"** for estimating labor force participation.  
+✅ **We used the "Usual Status (ps+ss) Approach"** 
 
 📌 **Definition of Labour Force under Usual Status:**  
-> The labor force includes:  
-> - (a) Persons who worked or were seeking/available for work for a **long part** of the **365 days preceding the survey**.  
-> - (b) Persons who worked **at least 30 days** during the **reference period of 365 days**.<img width="422" alt="employment_indicators_plfs" src="https://github.com/user-attachments/assets/3cd86cef-7909-40c2-b5d9-31f25ab39040" />
+see the image
+.<img width="422" alt="employment_indicators_plfs" src="https://github.com/user-attachments/assets/3cd86cef-7909-40c2-b5d9-31f25ab39040" />
+
+**Important Note**
+some **proprietary calculations used to derive deeper insights have been omitted**.  
