@@ -77,5 +77,6 @@ This project was a **rich learning experience**, from **leveraging Pandas for ef
 see the image
 .<img width="422" alt="employment_indicators_plfs" src="https://github.com/user-attachments/assets/3cd86cef-7909-40c2-b5d9-31f25ab39040" />
 
-**Important Note**
-some **proprietary calculations used to derive deeper insights have been omitted**.  
+## ⚠️ Important Note  
+Some **proprietary calculations used to derive deeper insights have been omitted** from this repository. 
+
