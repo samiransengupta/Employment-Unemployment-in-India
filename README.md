@@ -74,7 +74,7 @@ This project was a **rich learning experience**, from **leveraging Pandas for ef
 ✅ **We used the "Usual Status (ps+ss) Approach"** 
 
 📌 **Definition of Labour Force**  
-see the image
+
 .<img width="422" alt="employment_indicators_plfs" src="https://github.com/user-attachments/assets/3cd86cef-7909-40c2-b5d9-31f25ab39040" />
 
 ## ⚠️ Important Note  
